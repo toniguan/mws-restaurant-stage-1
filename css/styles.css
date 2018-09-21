@@ -353,3 +353,6 @@ inside #map-container {
     margin-right: auto;
   }
 }
+
+
+a:focus { outline: 1px solid #ffa500!important; }
